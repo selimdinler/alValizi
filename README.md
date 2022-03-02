@@ -1,3 +1,3 @@
 # AlValizi
 
-proje url: https://shielded-everglades-33789.herokuapp.com
+Site url: https://shielded-everglades-33789.herokuapp.com
